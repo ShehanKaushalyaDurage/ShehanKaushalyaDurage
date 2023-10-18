@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Debugging, I don't know where you are, I don't know how you work, but I will find you ,I will fix you.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
