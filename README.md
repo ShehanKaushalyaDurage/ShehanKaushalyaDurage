@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehan Kaushalya Durage.</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka.</h3>
 
-<img align="center" alt="coding" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="Right" alt="coding" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehankaushalyadurage&label=Profile%20views&color=0e75b6&style=flat" alt="shehankaushalyadurage" /> </p>
 
