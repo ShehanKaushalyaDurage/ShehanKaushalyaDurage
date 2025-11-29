@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehan Kaushalya Durage.</h1>
 <h3 align="center">Passionate Developer | Java & Spring Boot Enthusiast | Problem Solver</h3>
 
-<img align="center" width="1400" height="400" alt="coding" src="[[https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263](https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif)](https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif)" />
+<img align="center" width="1400" height="400" alt="coding" src="https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif" />
 
 <p align="left">
 </p>
